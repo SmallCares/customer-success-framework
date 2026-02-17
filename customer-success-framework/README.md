@@ -1,6 +1,6 @@
 ## [Home](https://smallcares.github.io/)
 
-# Customer Success Framework
+# Customer Success Framework (Coming soon)
 
 End‑to‑end lifecycle guidance for SaaS/AI/enterprise environments.
 
